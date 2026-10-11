@@ -1,0 +1,25 @@
+RESEARCH SOURCES — MACHINE LEARNING IN AGRIBUSINESS
+
+1. FAO AGRIS (2025), Crop yield prediction using machine learning: An extensive and systematic literature review
+https://agris.fao.org/search/en/records/6798b56ed6a63682f044df43
+
+2. World Bank AI Repository, ICRISAT–Microsoft AI Sowing App for Weather Prediction
+https://airepository.worldbank.org/use-case/icrisat-microsoft-ai-sowing-app-weather-prediction
+
+3. Microsoft Stories India (2017), Digital Agriculture: Farmers in India are using AI to increase crop yields
+https://news.microsoft.com/en-in/features/ai-agriculture-icrisat-upl-india/
+
+4. ICRISAT (2017), Microsoft and ICRISAT’s Intelligent Cloud Pilot for Agriculture in Andhra Pradesh Increase Crop Yield for Farmers
+https://idc.icrisat.org/idc/index.php/microsoft-and-icrisats-intelligent-cloud-pilot-for-agriculture-in-andhra-pradesh-increase-crop-yield-for-farmers/
+
+5. World Bank (2026-08-27), Small AI Transforms Farming in India
+https://www.worldbank.org/en/news/feature/2026/08/27/small-ai-transforms-farming-in-india
+
+6. Ramesh, V. & Kumaresan, P. (2024), Advancements in Machine Learning and Deep Learning Techniques for Crop Yield Prediction: A Comprehensive Review
+https://agris.fao.org/search/en/records/67bca4c7e27dfa12518967b9
+
+7. van Klompenburg, T., Kassahun, A. & Catal, C. (2020), Crop yield prediction using machine learning: A systematic literature review
+https://agris.fao.org/search/en/providers/122535/records/65dffe5363b8185d9cb0924c
+
+Accessed/compiled: October 2026
+Prepared by: Ruchi Ambatkar
